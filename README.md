@@ -1,4 +1,4 @@
-# parallax-effectcsss
+# parallax-effectcss
 🌄 Parallax Effect Web Project
 
 This project demonstrates a Parallax Scrolling Effect using pure HTML and CSS.
